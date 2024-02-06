@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm hande nur banuş.</h1>
 <h3 align="center">A passionate data scientist from Turkey</h3>
 
-- 🔭 I’m currently working on **Rstudio**
+- 🔭 I’m currently working on **Rstudio and Python**
 
-- 🌱 I’m currently learning **MYSQL,POSTGRESQL**
+- 🌱 I’m currently learning **SQL**
 
 - 💬 Ask me about **data science, Statistics,**
 
