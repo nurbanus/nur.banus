@@ -4,13 +4,13 @@
 <h1 align="center">Hi 👋, I'm hande nur banuş.</h1>
 <h3 align="center">A passionate data scientist from Turkey</h3>
 
-- 🔭 I’m currently working on **Rstudio and Python**
+- 🔭 I’m currently working on **Rstudio and Python **
 
 - 🌱 I’m currently learning **SQL**
 
 - 💬 Ask me about **data science, Statistics,**
 
-- 📫 How to reach me **nur.banus@hacettepe.edu.tr**
+- 📫 How to reach me **banushandenur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
